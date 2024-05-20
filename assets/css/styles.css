@@ -4,6 +4,14 @@
 body {
     background-color: #f0f0f0; /* Change to your desired color */
     font-family: Arial, sans-serif; /* Example of changing font */
+    text-align: center; /* Center align all text */
+}
+
+/* Center the main container */
+main, header, footer, nav {
+    max-width: 800px; /* Adjust to your preference */
+    margin: 0 auto; /* Center align block elements */
+    text-align: left; /* Align text within elements to the left */
 }
 
 /* Customize the header */
@@ -18,6 +26,7 @@ header {
 nav ul {
     list-style-type: none;
     padding: 0;
+    text-align: center;
 }
 
 nav ul li {
