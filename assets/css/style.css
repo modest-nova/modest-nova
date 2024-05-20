@@ -44,11 +44,11 @@ main {
     margin: 20px;
 }
 
-.align-left {
+.align-0 {
     text-align: left !important;
 }
 
-.align-right {
+.align-1 {
     text-align: right !important;
 }
 
