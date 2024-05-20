@@ -46,11 +46,13 @@ main {
 
 .align-0 {
     text-align: left !important;
-    margin: auto;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .align-1 {
     text-align: right !important;
-    margin: auto;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
