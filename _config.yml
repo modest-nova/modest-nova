@@ -26,6 +26,7 @@ url: "https://modest-nova.github.io/modest-nova"
 twitter_username: nova.hotaru
 github_username:  modest-nova
 timezone: "Asia/Tokyo"
+future: true
 
 # Build settings
 theme: jekyll-theme-minimal
