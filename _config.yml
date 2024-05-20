@@ -31,7 +31,6 @@ github_username:  modest-nova
 
 # Build settings
 theme: jekyll-theme-minimal
-css: /assets/css/style.css
 plugins:
   - jekyll-feed
 
