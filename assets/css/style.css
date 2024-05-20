@@ -2,7 +2,7 @@
 
 /* Change the background color of the entire page */
 body {
-    background-color: #f0f0f0; /* Change to your desired color */
+    background-color: black; /* Change to your desired color */
     font-family: Arial, sans-serif; /* Example of changing font */
     text-align: center; /* Center align all text */
 }
