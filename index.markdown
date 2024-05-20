@@ -7,7 +7,7 @@ title: Home
 
 {% for post in site.posts %}
   <article>
-    <p><small>{{ post.date | date: "%Y/%M/%D" }}</small></p>
+    <p><small>{{ post.date | date: "%Y/%m/%d" }}</small></p>
     {{ post.content }}
   </article>
 {% endfor %}
