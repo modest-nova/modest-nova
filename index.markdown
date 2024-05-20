@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Blog Posts
+## 日報
 
 {% for post in site.posts %}
   <article>
