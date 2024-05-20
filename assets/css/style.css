@@ -43,3 +43,12 @@ nav ul li a {
 main {
     margin: 20px;
 }
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
