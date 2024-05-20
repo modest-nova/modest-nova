@@ -7,8 +7,7 @@ title: Home
 
 {% for post in site.posts %}
   <article>
-    <h2>{{ post.title }}</h2>
-    <p><small>{{ post.date | date: "%Y, %M, %D" }}</small></p>
+    <p><small>{{ post.date | date: "%Y/%M/%D" }}</small></p>
     {{ post.content }}
   </article>
   <hr>
