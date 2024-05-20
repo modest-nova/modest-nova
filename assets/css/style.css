@@ -16,8 +16,8 @@ main, header, footer, nav {
 
 /* Customize the header */
 header {
-    background-color: #333;
-    color: white;
+    background-color: #FFFACD;
+    color: #333;
     padding: 20px;
     text-align: center;
 }
@@ -42,12 +42,4 @@ nav ul li a {
 /* Customize the main content */
 main {
     margin: 20px;
-}
-
-/* Customize the footer */
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #333;
-    color: white;
 }
