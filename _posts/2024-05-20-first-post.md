@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "My First Post"
+title: "getting started"
 date: 2024-05-20
 ---
 
-# My First Post
+# getting started
 
-This is my first blog post on my GitHub Pages site. I am learning to use GitHub Pages with Jekyll.
+i wanted to familiarize myself with github for future projects
+i plan to experiment and use this blog as a diary
