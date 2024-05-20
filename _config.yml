@@ -21,7 +21,7 @@
 title: tom's diary
 email: thomas.tracey@media5.co.jp
 description: i am learning to use GitHub Pages
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/modest-nova"
 url: "https://modest-nova.github.io/modest-nova"
 twitter_username: nova.hotaru
 github_username:  modest-nova
