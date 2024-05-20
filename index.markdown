@@ -10,5 +10,4 @@ title: Home
     <p><small>{{ post.date | date: "%Y/%M/%D" }}</small></p>
     {{ post.content }}
   </article>
-  <hr>
 {% endfor %}
