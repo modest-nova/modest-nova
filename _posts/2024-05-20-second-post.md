@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "formatting things"
-date: 2024-05-20
+date: 2024-05-20 11:00:00 +0900
 ---
 
 # formatting things

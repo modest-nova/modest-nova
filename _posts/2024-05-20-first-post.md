@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "getting started"
-date: 2024-05-20
+date: 2024-05-20 10:00:00 +0900
 ---
 
 # getting started

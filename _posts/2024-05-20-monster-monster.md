@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "monster-monster"
-date: 2024-05-20
+title: "monster monster"
+date: 2024-05-20 15:00:00 +0900
 ---
 
-# monster-monster
+# monster monster
 
 i get the sense i could optimise my intake of energy drinks  
 when i drink a monster past 3pm i struggle to sleep at night  
